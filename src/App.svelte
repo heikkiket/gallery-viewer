@@ -1,10 +1,10 @@
 <script>
-  import Counter from './lib/Counter.svelte'
+  import Images from './lib/Images.svelte'
 </script>
 
 <main>
     <h1>Hello, world!</h1>
-    <Counter></Counter>
+    <Images />
 </main>
 
 <style></style>
