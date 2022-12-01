@@ -1,0 +1,7 @@
+["path/to/image1.jpg"]
+title= 'image 1'
+bg= 'red'
+
+["path/to/image2.jpg"]
+title= 'image 2'
+bg= 'gray'
